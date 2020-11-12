@@ -85,6 +85,7 @@ body {
     position: relative;
     height: 400px;
     width: 100%;
+    min-width: 370px;
 }
 
 hr {
